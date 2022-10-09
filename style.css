@@ -1,0 +1,38 @@
+html, body {
+background: rgb(7,104,255);
+background: radial-gradient(circle, rgba(7,104,255,0.989233193277311) 0%, rgba(87,179,0,1) 45%, rgba(0,212,255,1) 100%);
+}
+
+h2 {
+  color: #0011ff;
+}
+
+form, div {
+  color: #000000;
+  text-padding: 60px;
+}
+hr {
+
+  border-style:none;
+  border-top-style:dotted;
+  border-color: #7f0606;
+  border-width:5px;
+  width:5%;
+  }
+
+input , type {
+  color: red;
+  background-color: yellow;
+}
+option , radio , select {
+  color: #7f0606;
+  background-color: yellow;
+}
+
+textarea{
+  
+    color: #000000;
+    background: transparent;
+    border: dotted;
+    outline: none;
+}
